@@ -1,10 +1,8 @@
-package geo;
+package ru.netology.geo;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import ru.netology.entity.Location;
-import ru.netology.geo.GeoService;
-import ru.netology.geo.GeoServiceImpl;
 
 public class GeoServiceImplTest {
     @Test
